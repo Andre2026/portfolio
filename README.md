@@ -22,7 +22,7 @@ Este repositorio es mi **portafolio**: un espacio donde muestro mis proyectos, h
 
 ## 📂 Proyectos Destacados
 - 🕹 **Juego tipo Bomberman** – Desarrollo para móvil con mecánicas clásicas.
-- 🥔 **Juego de la Papa en la Olla** – Proyecto con lógica de termómetro y física divertida.
+- 🥔 **Juego criollitas** – Proyecto con lógica de termómetro y física divertida.
 - 🛒 **E-commerce con Flask** – Tienda online usando Flask y Bootstrap 5.
 - 🚗 **Sistema de gestión de alquiler de vehículos** – Aplicación en Java con CLI.
 
@@ -36,7 +36,7 @@ Este repositorio es mi **portafolio**: un espacio donde muestro mis proyectos, h
 
 ## 🌐 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea%20Cárdenas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
-[![Email](https://img.shields.io/badge/Email-andrea@example.com-red?style=for-the-badge&logo=gmail)](mailto:andrea@example.com)
+[![Email](https://img.shields.io/badge/Email-andrea@example.com-red?style=for-the-badge&logo=gmail)](mailto:andreacardenashenaoa@tgmail.com)
 
 ---
 
