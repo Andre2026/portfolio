@@ -36,7 +36,7 @@ Este repositorio es mi **portafolio**: un espacio donde muestro mis proyectos, h
 
 ## 🌐 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea%20Cárdenas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
-[![Email](https://img.shields.io/badge/Email-andrea@example.com-red?style=for-the-badge&logo=gmail)](mailto:andreacardenashenaoa@tgmail.com)
+[![Email](https://img.shields.io/badge/Email-andreacardenashenaoa@tgmail.com-red?style=for-the-badge&logo=gmail)](mailto:andreacardenashenaoa@tgmail.com)
 
 ---
 
